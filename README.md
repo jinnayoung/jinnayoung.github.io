@@ -1,1 +1,0 @@
-# jinnayoung.github.io
