@@ -1,6 +1,6 @@
 ---
 title: "airflow setting error & solution"
-tag:airflow,data
+tag: airflow,data
 ---
 - Error : By default one of Airflow's dependencies installs a GPL 
 
