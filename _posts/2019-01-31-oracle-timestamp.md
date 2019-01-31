@@ -11,6 +11,8 @@ Oracle flashback has an 'as of timestamp' WHERE clause to allow point-in-time SQ
 
 
 > create table [new_table_name] as
+
 > select * from  [old_table_name]
+
 > as of timestamp to_timestamp('20190131 13:30:00','yyyyMMdd hh24:mi:ss')
 
